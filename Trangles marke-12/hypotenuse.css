@@ -1,0 +1,29 @@
+body{
+    font-size: 20px;
+   text-align: center;
+margin-top: 150px;
+    background-color:#bfdbfe ;
+} 
+
+.text{
+    display: inline;
+    color: white;
+    padding: 20px;
+    text-decoration: none;
+}
+    
+.navigation {
+    display:inline-flex;
+padding: 20px;
+   border-radius: 20px;
+  background-color: #1e3a8a;
+}
+
+
+#hypotenuse-btn {
+    color: white;
+    font-size: 20px;
+    padding: 20px;
+   border-radius: 20px;
+  background-color: #1e3a8a;
+}
